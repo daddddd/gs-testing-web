@@ -23,7 +23,7 @@ os: windows
 #   "files" section altogether. A blank or incomplete "files" section
 #   may cause associated deployments to fail.
 files:
-  - source: target\gs-testing-web-0.1.0.war
+  - source: complete\target\gs-testing-web-0.1.0.war
     destination: C:\Program Files (x86)\apache-tomcat-7.0.70\webapps\gs-testing-web-0.1.0.war
 # For deployments to Amazon Linux, Ubuntu Server, or RHEL instances,
 #   you can specify a "permissions" 
