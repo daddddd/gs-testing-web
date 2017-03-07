@@ -24,7 +24,7 @@ os: windows
 #   may cause associated deployments to fail.
 files:
   - source: complete\target\gs-testing-web-0.1.0.war
-    destination: C:\Program Files (x86)\apache-tomcat-7.0.70\webapps\gs-testing-web-0.1.0.war
+    destination: C:\Program Files (x86)\apache-tomcat-7.0.70\webapps\
 # For deployments to Amazon Linux, Ubuntu Server, or RHEL instances,
 #   you can specify a "permissions" 
 #   section here that describes special permissions to apply to the files 
